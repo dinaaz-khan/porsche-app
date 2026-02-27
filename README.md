@@ -1,73 +1,97 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🏎 Porsche Immersive Performance Studio
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+A futuristic, immersive digital car-buying experience inspired by Porsche.
 
-## How can I edit this code?
+This project reimagines the traditional car configurator into a cinematic, performance-driven journey that enhances emotional engagement and simplifies decision-making.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🎯 Problem Statement
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+The current digital configurator experience feels premium but predictable.  
+It can be overwhelming and lacks emotional immersion.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Our Solution
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+We designed a storytelling-based, interactive digital showroom that:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Enhances emotional engagement
+- Simplifies configuration through guided steps
+- Introduces performance-driven interaction
+- Visualizes future-ready AR integration
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ✨ Key Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🎬 Cinematic Landing Experience
+- Fullscreen immersive hero section
+- Minimal luxury design
+- Emotional performance messaging
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🔄 Interactive Car Exploration
+- Multi-angle car views (Front / Side / Interior)
+- Smooth transitions
+- Day / Night mode simulation
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🧠 Smart Guided Configurator
+- Step-by-step flow
+- Driving style selection (Comfort / Sport / Track)
+- AI-inspired configuration summary
 
-**Edit a file directly in GitHub**
+### 🔥 Sport Mode Interaction
+- Dynamic UI transformation
+- Red accent performance theme
+- Animated performance stats
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 📱 AR Test Drive Concept
+- Future WebAR integration concept
+- Immersive driveway visualization
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🛠 Tech Stack
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
 - React
-- shadcn-ui
+- TypeScript
+- React Router
+- Framer Motion (for animations)
 - Tailwind CSS
+- AI-assisted rapid prototyping (Lovable)
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 🧠 UX Strategy
 
-## Can I connect a custom domain to my Lovable project?
+Instead of building just a configurator, we built a narrative journey:
 
-Yes, you can!
+Landing → Explore → Configure → Perform → Experience (AR)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+This ensures emotional escalation and immersive storytelling.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 👥 Team
+
+3Variables
+
+---
+
+## 🔮 Future Scope
+
+- Real-time 3D integration (Three.js)
+- Engine sound interaction
+- Live dealership integration
+- Full WebAR test drive capability
+- Personalized dashboard with saved builds
+
+---
+
+## 🏆 Hackathon Vision
+
+We transformed a digital platform into a performance experience — blending luxury minimalism with immersive interaction.
+
+"Feel the Performance."
