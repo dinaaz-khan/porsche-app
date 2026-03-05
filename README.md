@@ -74,11 +74,6 @@ This ensures emotional escalation and immersive storytelling.
 
 ---
 
-## 👥 Team
-
-3Variables
-
----
 
 ## 🔮 Future Scope
 
@@ -90,8 +85,3 @@ This ensures emotional escalation and immersive storytelling.
 
 ---
 
-## 🏆 Hackathon Vision
-
-We transformed a digital platform into a performance experience — blending luxury minimalism with immersive interaction.
-
-"Feel the Performance."
